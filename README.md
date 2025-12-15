@@ -20,12 +20,13 @@
       <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="65" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi " width="75" height="75"/>
       <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="75" height="75"/>
-      <img src="" alt="python" width="75" height="75"/>
+      <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="python" width="75" height="75"/>
+      <img src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg" alt="python" width="75" height="75"/>
       
 </p>
 
 ---
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Projects:
 <!-- BLOG-POST-LIST:START -->
 - [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
 - [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
@@ -33,4 +34,16 @@
 - [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
 - [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
 <!-- BLOG-POST-LIST:END -->
+
 ---
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
