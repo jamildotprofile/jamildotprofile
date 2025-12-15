@@ -20,7 +20,7 @@
       <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="65" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi " width="75" height="75"/>
       <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="75" height="75"/>
-      <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="python" width="75" height="75"/>
+      <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="python" width="75" height="75"/>
       <img src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg" alt="python" width="75" height="75"/>
       
 </p>
