@@ -1,4 +1,10 @@
-# Hi, this is Jamil Hossain Chowdury <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
+# 👋 Hi, I'm Jamil!
+👩🏻‍💻 Data Analyst,sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied Economics at Jagannath University, Dhaka, Bangladesh<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+
 <p align="center">
       
 <a href="www.linkedin.com/in/jamildotprofile" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="30" width="30" /></a>&nbsp;
@@ -8,12 +14,8 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Data analyst 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **MySQL**, **Excel**, **Power Bi**
-- 📖 I am currently reading **Sell or Be Sold** by Grant Cardone 
-- 🧑‍💻 Tech I work on :
+
+
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="65" height="65"/> 
