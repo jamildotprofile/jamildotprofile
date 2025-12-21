@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Jamil!
 👩🏻‍💻 Data Analyst,sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Economics at Jagannath University, Dhaka, Bangladesh<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <p align="center">
       
-<a href="www.linkedin.com/in/jamildotprofile" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/jamilsreality" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/960px-2023_Facebook_icon.svg.png?20231011122028" alt="apoorv#4040" height="30" width="30" /></a>&nbsp;
+<a href="www.linkedin.com/in/jamildotprofile" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" height="15" width="15" /></a>&nbsp;
+<a href="https://www.facebook.com/jamilsreality" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/960px-2023_Facebook_icon.svg.png?20231011122028" alt="apoorv#4040" height="15" width="15" /></a>&nbsp;
 
 </p>
 
