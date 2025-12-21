@@ -18,14 +18,6 @@
 - [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
 
 <!-- BLOG-POST-LIST:END -->
-
 ---
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
 
----
 
