@@ -15,7 +15,7 @@
 ---
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Projects:
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Sales Performance Analysis for FY2023 and FY2024 in Excel]([https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this](https://github.com/jamildotprofile/E-commerce-Sales-Performance-Analysis-in-Excel))
+- [E-commerce Sales Performance Analysis for FY2023 and FY2024 in Excel](https://github.com/jamildotprofile/E-commerce-Sales-Performance-Analysis-in-Excel))
 
 <!-- BLOG-POST-LIST:END -->
 ---
